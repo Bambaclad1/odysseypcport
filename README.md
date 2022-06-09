@@ -1,5 +1,26 @@
 # odysseypcport
 Port for Super Mario Odyssey for PC. See readme for more info.
+
+
+
+
+
+
+
+
+
+
+
+# Please do not use a pirated odyssey rom! You need a dump from your own switch!
+
+This port is a decompilation project of Super Mario Odyssey. It will work on any pc/laptop and even slow ones.
+There are only 3 kingdoms which are avaiable because this is just a demo
+
+
+This isnt the original repo, the code is archivied on a other site to prevent nintendo ninjas taking me from behind.
+
+
+Check link below:
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣤⠤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡤⠾⠁⠀⠀⠀⠀⠀⠀⢹⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠒⣰⡏⣠⠟⠀⠀⠀⢠⠤⠤⠤⠤⢴⣿⠓⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -177,3 +198,8 @@ Never gonna run around and desert you
 Never gonna make you cry
 Never gonna say goodbye
 Never gonna tell a lie and hurt you
+
+
+
+
+Unforunate... you got rickrolled.
