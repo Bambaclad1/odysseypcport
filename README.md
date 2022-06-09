@@ -14,7 +14,20 @@ Port for Super Mario Odyssey for PC. See readme for more info.
 # Please do not use a pirated odyssey rom! You need a dump from your own switch!
 
 This port is a decompilation project of Super Mario Odyssey. It will work on any pc/laptop and even slow ones.
-There are only 3 kingdoms which are avaiable because this is just a demo
+There are only 3 kingdoms which are avaiable because this is just a demo.
+
+
+
+# Requirements:
+4 Core CPU, 1.10GHZ or better.
+4GBRam
+Geforce GTX 660 or newer
+
+
+
+# How to decompile?
+You will need https://www.msys2.org/.
+First download the latest version of the port below.
 
 
 This isnt the original repo, the code is archivied on a other site to prevent nintendo ninjas taking me from behind.
